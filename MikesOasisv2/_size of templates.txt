@@ -1,0 +1,67 @@
+I want to see what affects size:
+	is it my art galler? size of structures?  number or structures?
+
+
+size test: directory is /Template Size Testing
+			    242				simplest, smallest I could make (1 cube with a color material on it)
+			  1,4xx				adding a 1337 graphic on the base planes
+			  1,769	test03		dragged the graphic onto the cube instead of just red material
+			  1,770	test04		added some big walls, built a court, just plain red
+!!!! barely added anythnig!!!
+			  1,770	test05		dragged the graphic onto the 4 walls			  
+			  3,352	test06		added 1,486 graphic and dragged onto a new plane
+
+So the graphics seem to be almost 1 to 1, while objects add almost nothing!!!
+
+			  3,353	test07		added several cubes and use the existing materials, including the graphics
+
+
+
+
+date		size	template	zip saved as	notes
+----------	------	--------	-----------		----------------------------------------------	
+2020 0918	 30,361	?							baseline structure with platforms, entry, some trees, rocks, and big room
+2020 0918	 33,193	20200916	t_202009181600	adding a wall around the labyrinth and a graphic on 2nd level
+-backup: no
+2020 0918	 29,572	20200916	t_202009182000	move graphic and lowered floor, added single wall around labyrinth
+2020 0918	 34,835	20200916	t_202009182300	added 4 graphics 800X600 attached to planes 
+												plus 2000X2000 pixel labyrinth
+2020 0918	 34,806	20200916	last one wouldn't load, chanced a floor tile
+2020 0919	 57,656	20200919	t_202009191500	added the whole meeting room, no new graphics
+2020 0919	 57,716 20200919	t_202009191630	resized wall thickness, added some 3D text to see size. changed floor tile
+2020 0919	 90,070	20200919	t_202009191700	pulled in some prefab sofas from Pack: 	WOW huge!!
+2020 0919	129,846	20200919	t_202009191900	added another sofa and some low-poly trees. Also a new graphic on the wall inside the room and a roof
+2020 0919	130,257	20200919	t_202009192300	resized sofa, new graphic for labyrinth
+2020 0921	127,564	20200919	t_202009211600	changed labyrinth to simpler graphic
+2020 0921	124,139	20200919	t_202009211930	BIG REVISION - moved main room, simplified a lot of the graphics
+	** disappointing, not much change in size!! bummer
+2020 0921	124,229	20200919	t_202009212200	added some pizza boxes, cups, etc around the room	
+
+Build up from the size test or strip down from this one?
+Or just ignore size and continue?
+
+back things up again and do a big strip down test and see how small it gets
+backup -> /MikesOasisv2 - bak
+2020 0922	105,916	20200919	t_202009220010	pulling all of that out did little to shrink the size of the file
+
+removing everything but the meeting room
+2020 0922 	 95,293	20200919	t_202009220100	hardly worth it.
+
+for now, just going with what I have. I will think about optimizing AFTER I take the clasee
+So I need to revert back to an older version which had everything in it.
+
+restoring back to this one:
+2020 0921	124,229	20200919	t_202009212200	added some pizza boxes, cups, etc around the room	
+OK we are back on track
+
+2020 0923	123,765	20200919	t_202009231600	added a 2nd lower plane, also duplicated meeting room and moved some graphics around, added low poly trees and high res trees (duplicated)
+2020 0923	136,412	20200919	t_202009232200	prettying it up, making streets, doors, more buildlings, and breakout rooms off of the main meeting room
+2020 0924	145,330	20200919	t_202009241500	more on basement level, added some books to room
+2020 0924	145,632				t_202009242200	more on basement level, adjusted book sizes
+	adding Voxel animal friends from Asset Store
+
+
+
+
+
+
